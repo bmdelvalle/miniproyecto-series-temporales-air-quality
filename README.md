@@ -106,6 +106,4 @@ miniproyecto-series-temporales/
 │   └── processed/
 │       └── air_quality_diario_procesado.csv
 ├── models/
-│   ├── mejor_modelo_univariante.pkl
-│   ├── mejor_modelo_exogenas.pkl
-│   └── modelo_final_univariante.pkl
+│   ├── mejor_modelo.pkl
