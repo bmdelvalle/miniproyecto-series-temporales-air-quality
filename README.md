@@ -97,7 +97,7 @@ La evaluación se realizó respetando el orden temporal de los datos, evitando p
 miniproyecto-series-temporales/
 ├── README.md
 ├── requirements.txt
-├── informe.pdf
+├── informe_miniproyecto.pdf
 ├── notebooks/
 │   └── miniproyecto.ipynb
 ├── data/
@@ -109,9 +109,3 @@ miniproyecto-series-temporales/
 │   ├── mejor_modelo_univariante.pkl
 │   ├── mejor_modelo_exogenas.pkl
 │   └── modelo_final_univariante.pkl
-└── outputs/
-    ├── comparacion_modelos.csv
-    ├── evaluacion_final_test_7_dias.csv
-    ├── grid_search_univariante.csv
-    ├── grid_search_exogenas.csv
-    └── pronostico_proximos_7_dias.csv
